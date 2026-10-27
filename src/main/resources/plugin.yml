@@ -1,0 +1,6 @@
+name: WGE-Nukkit-MOT
+main: com.ggfreakingez.whatthehell.overworld
+version: "1.0.0"
+api: ["1.0.0"]
+author: HollowKnightttt
+description: World Generation Extension For Nukkit MOT
